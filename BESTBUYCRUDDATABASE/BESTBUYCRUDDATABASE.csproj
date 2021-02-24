@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\appsettings.json" />
+  </ItemGroup>
+
 </Project>
